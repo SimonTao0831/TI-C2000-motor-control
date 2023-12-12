@@ -7,6 +7,7 @@ Software:
 1. [controlSUITE](https://www.ti.com/tool/CONTROLSUITE)
 2. [Code Composer Studio](https://www.ti.com/tool/CCSTUDIO)
 3. Matlab (2017a and above versions)
+
   Required Matlab packages:
     1. Simulink
     2. Embedded Coder
