@@ -8,9 +8,9 @@ Software:
 2. [Code Composer Studio](https://www.ti.com/tool/CCSTUDIO)
 3. Matlab (2017a and above versions)
 
-  Required Matlab packages:
-    1. Simulink
-    2. Embedded Coder
-    3. MATLAB Coder
-    4. Simulink Coder
-    5. Embedded Coder Support Package for Texas Instruments C2000 Processors
+Required Matlab packages:
+1. Simulink
+2. Embedded Coder
+3. MATLAB Coder
+4. Simulink Coder
+5. Embedded Coder Support Package for Texas Instruments C2000 Processors
