@@ -2,6 +2,7 @@
 ## Preparation
 Hardware platform: 
 [LAUNCHXL-F28027](https://www.ti.com/tool/LAUNCHXL-F28027)
+
 Software:
 1. [controlSUITE](https://www.ti.com/tool/CONTROLSUITE)
 2. [Code Composer Studio](https://www.ti.com/tool/CCSTUDIO)
