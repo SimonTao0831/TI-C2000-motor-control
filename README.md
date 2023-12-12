@@ -14,6 +14,3 @@ Required Matlab packages:
 3. MATLAB Coder
 4. Simulink Coder
 5. Embedded Coder Support Package for Texas Instruments C2000 Processors
-
-## Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X1G_Mc1O-xw?si=bdoZG0U_pDLnHKh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
