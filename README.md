@@ -23,25 +23,25 @@ Required Matlab packages:
 
 <img src="/doc/Picture1.png" width="400">
 
+-
+
+-
 ## Simulink
 
 ### DC motor PID speed control
 
+![Simulink](/doc/Picture2.png)
+
 - Desired Velocity (rpm)
-- Actual Velocity
-
+- Actual Velocity:
 The eCAP module outputs pulse interval time. Divide the distance by the time to get the actual velocity.
-- PID controller
-
+- PID controller:
 Incremental PID module.
-- PWM module
-
+- PWM module:
 Change the power voltage of the DC motor.
 - Direction
 
 GPIO0 and CPIO1 are used to control the rotation direction.
-
-![Simulink](/doc/Picture2.png)
 
 The related code 'dc_motor_pid_control' is in the main directory.
 
