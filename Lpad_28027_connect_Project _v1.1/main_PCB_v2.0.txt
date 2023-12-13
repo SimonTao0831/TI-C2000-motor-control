@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\pc\Desktop\matlab_task\connect_PCB\Lpad_28027_connect_Project _v1.1\main_PCB_v2.0.PcbDoc
+Date         : 2021/4/27
+Time         : 15:35:09
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 29
+    Connections routed, 29
+    Connections remaining, 0
+count : 4

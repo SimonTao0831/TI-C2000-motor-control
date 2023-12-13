@@ -5,6 +5,7 @@ TI C2000 Launchpad was used with Simulink to control DC motors.
 Some simple experiments were conducted.
 
 Click following picture to watch video:
+
 [![Link to my YouTube video!](/doc/video_picture.png)](https://www.youtube.com/watch?v=X1G_Mc1O-xw)
 
 ## Preparation
