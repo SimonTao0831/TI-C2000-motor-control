@@ -29,12 +29,16 @@ Required Matlab packages:
 
 - Desired Velocity (rpm)
 - Actual Velocity
+
 The eCAP module outputs pulse interval time. Divide the distance by the time to get the actual velocity.
 - PID controller
+
 Incremental PID module.
 - PWM module
+
 Change the power voltage of the DC motor.
 - Direction
+
 GPIO0 and CPIO1 are used to control the rotation direction.
 
 ![Simulink](/doc/Picture2.png)
