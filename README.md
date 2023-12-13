@@ -23,9 +23,9 @@ Required Matlab packages:
 
 <img src="/doc/Picture1.png" width="400">
 
--
-
--
+- Battery: 12V, power the motor
+- DC motor with encoder
+- Control board: LAUNCHXL-F28027 + TB6612 + breakout board
 ## Simulink
 
 ### DC motor PID speed control
