@@ -4,9 +4,7 @@ Hardware platform:
 [LAUNCHXL-F28027](https://www.ti.com/tool/LAUNCHXL-F28027)
 
 Software:
-1. [controlSUITE](https://www.ti.com/tool/CONTROLSUITE)
-2. [Code Composer Studio](https://www.ti.com/tool/CCSTUDIO)
-3. Matlab (2017a and above versions)
+Matlab (2017a and above versions)
 
 Required Matlab packages:
 1. Simulink
@@ -14,6 +12,9 @@ Required Matlab packages:
 3. MATLAB Coder
 4. Simulink Coder
 5. Embedded Coder Support Package for Texas Instruments C2000 Processors
+- Select Processor Family: TI Piccolo F2802x (based on your hardware)
+- Install Third-Party Software
+- Install Third-Party Software
 
 [![Link to my YouTube video!](https://)]()
 
