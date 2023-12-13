@@ -25,6 +25,8 @@ Required Matlab packages:
 
 ## Simulink
 
+### DC motor pid speed control
+
 - Desired Velocity (rpm)
 - Actual Velocity
 The eCAP module outputs pulse interval time. Divide the distance by the time to get the actual velocity.
@@ -38,3 +40,15 @@ GPIO0 and CPIO1 are used to control the rotation direction.
 ![Simulink](/doc/Picture2.png)
 
 The related code 'dc_motor_pid_control' is in the main directory.
+
+### Results
+
+<img src="/doc/Result1.png" width="400">
+
+<img src="/doc/Result2.png" width="400">
+
+<img src="/doc/Result3.png" width="400">
+
+<img src="/doc/Result4.png" width="400">
+
+## Examples
