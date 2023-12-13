@@ -33,20 +33,23 @@ Required Matlab packages:
 
 ### Hardware Setup
 
+Here is a diagram showing how the connections were made.
+
 ![Hardware Setup](/doc/Picture3.png)
 
 LAUNCHXL-F28027 image source: https://www.ti.com/lit/ml/sprz376/sprz376.pdf?ts=1702445097824&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FLAUNCHXL-F28027
+
 TB6612 image source: https://www.sparkfun.com/products/14451
 
 ### Experimental platform
+
+I designed one breakout board used for this project. The breakout board was designed by Altium Designer, all design files are in Lpad_28027_connect_Project _v1.1 folder.
 
 <img src="/doc/Picture1.png" width="400">
 
 - Battery: 12V, power the motor
 - DC motor with encoder
 - Control board: LAUNCHXL-F28027 + TB6612 module + Breakout board
-
-The breakout board was designed by Altium Designer, all design files are in Lpad_28027_connect_Project _v1.1 folder.
 
 ## Simulink
 
