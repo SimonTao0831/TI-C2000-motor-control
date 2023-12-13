@@ -1,6 +1,6 @@
 # TI C2000 Launchpad with Simulink
 ## Introduction
-[![Link to my YouTube video!](https://github.com/SimonTao0831/TI-C2000-motor-control/blob/main/doc/video_picture.png)](https://www.youtube.com/watch?v=X1G_Mc1O-xw)
+[![Link to my YouTube video!](/doc/video_picture.png)](https://www.youtube.com/watch?v=X1G_Mc1O-xw)
 
 ## Preparation
 Hardware platform: 
@@ -23,9 +23,18 @@ Required Matlab packages:
 
 <img src="/doc/Picture1.png" width="400">
 
-![Hardware](/doc/Picture1.png)
-
 ## Simulink
+
+- Desired Velocity (rpm)
+- Actual Velocity
+The eCAP module outputs pulse interval time. Divide the distance by the time to get the actual velocity.
+- PID controller
+Incremental PID module.
+- PWM module
+Change the power voltage of the DC motor.
+- Direction
+GPIO0 and CPIO1 are used to control the rotation direction.
 
 ![Simulink](/doc/Picture2.png)
 
+The related code 'dc_motor_pid_control' is in the main directory.
