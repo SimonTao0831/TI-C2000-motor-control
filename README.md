@@ -1,4 +1,7 @@
 # TI C2000 Launchpad with Simulink
+## Introduction
+[![Link to my YouTube video!](https://github.com/SimonTao0831/TI-C2000-motor-control/blob/main/doc/video_picture.png)](https://www.youtube.com/watch?v=X1G_Mc1O-xw)
+
 ## Preparation
 Hardware platform: 
 [LAUNCHXL-F28027](https://www.ti.com/tool/LAUNCHXL-F28027)
@@ -16,4 +19,8 @@ Required Matlab packages:
 - Install Third-Party Software
 - Install Third-Party Software
 
-[![Link to my YouTube video!](https://github.com/SimonTao0831/TI-C2000-motor-control/blob/main/doc/video_picture.png)](https://www.youtube.com/watch?v=X1G_Mc1O-xw)
+## Hardware
+
+
+## Simulink
+
