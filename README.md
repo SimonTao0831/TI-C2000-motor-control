@@ -31,11 +31,23 @@ Required Matlab packages:
 
 ## Hardware
 
+### Hardware Setup
+
+![Hardware Setup](/doc/Picture3.png)
+
+LAUNCHXL-F28027 image source: https://www.ti.com/lit/ml/sprz376/sprz376.pdf?ts=1702445097824&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FLAUNCHXL-F28027
+TB6612 image source: https://www.sparkfun.com/products/14451
+
+### Experimental platform
+
 <img src="/doc/Picture1.png" width="400">
 
 - Battery: 12V, power the motor
 - DC motor with encoder
-- Control board: LAUNCHXL-F28027 + TB6612 + breakout board
+- Control board: LAUNCHXL-F28027 + TB6612 module + Breakout board
+
+The breakout board was designed by Altium Designer, all design files are in Lpad_28027_connect_Project _v1.1 folder.
+
 ## Simulink
 
 ### DC motor PID speed control
@@ -72,5 +84,3 @@ I parameter turns lower:
 P parameter turns Higher:
 
 <img src="/doc/Result4.png" width="400">
-
-## Examples
