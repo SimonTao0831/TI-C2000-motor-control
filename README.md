@@ -21,7 +21,7 @@ Required Matlab packages:
 
 ## Hardware
 
-<img src="/doc/Picture1.png" width="200" height="200" />
+<img src="/doc/Picture1.png" width="400">
 
 ![Hardware](/doc/Picture1.png)
 
