@@ -21,6 +21,9 @@ Required Matlab packages:
 
 ## Hardware
 
+![Hardware](/doc/Picture1.png)
 
 ## Simulink
+
+![Simulink](/doc/Picture2.png)
 
