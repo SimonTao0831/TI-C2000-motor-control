@@ -1,5 +1,9 @@
 # TI C2000 Launchpad with Simulink
 ## Introduction
+This project aims to explore Model Based Design (MBD) to accelerate the project development speed. 
+TI C2000 Launchpad was used with Simulink to control DC motors.
+Some simple experiments were conducted.
+
 [![Link to my YouTube video!](/doc/video_picture.png)](https://www.youtube.com/watch?v=X1G_Mc1O-xw)
 
 ## Preparation
