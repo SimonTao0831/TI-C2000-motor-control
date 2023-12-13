@@ -87,3 +87,5 @@ I parameter turns lower:
 P parameter turns Higher:
 
 <img src="/doc/Result4.png" width="400">
+
+Finally, thanks to my friend Wenbo Ning for his contribution and help.
