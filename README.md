@@ -44,15 +44,19 @@ The related code 'dc_motor_pid_control' is in the main directory.
 ### Results
 
 Suitable PID parameters:
+
 <img src="/doc/Result1.png" width="400">
 
 D parameter turns higher:
+
 <img src="/doc/Result2.png" width="400">
 
 I parameter turns lower:
+
 <img src="/doc/Result3.png" width="400">
 
 P parameter turns Higher:
+
 <img src="/doc/Result4.png" width="400">
 
 ## Examples
