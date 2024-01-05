@@ -35,7 +35,7 @@ Required Matlab packages:
 
 Here is a diagram showing how the connections were made.
 
-<img src="/doc/Picture3.png" width="400">
+<img src="/doc/Picture3.png" width="600">
 
 LAUNCHXL-F28027 image source: https://www.ti.com/lit/ml/sprz376/sprz376.pdf?ts=1702445097824&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FLAUNCHXL-F28027
 
